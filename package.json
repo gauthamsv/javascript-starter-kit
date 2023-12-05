@@ -1,5 +1,5 @@
 {
-  "name": "javascript-starter-kit",
+  "name": "start",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -14,5 +14,9 @@
   },
   "dependencies": {
     "@kinde-oss/kinde-auth-pkce-js": "^3.0.24"
-  }
+  },
+  "description": "## Register an account on Kinde",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
