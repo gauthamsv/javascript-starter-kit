@@ -13,7 +13,8 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "@kinde-oss/kinde-auth-pkce-js": "^3.0.24"
+    "@kinde-oss/kinde-auth-pkce-js": "^3.0.24",
+    "start": "^5.1.0"
   },
   "description": "## Register an account on Kinde",
   "main": "vite.config.js",
